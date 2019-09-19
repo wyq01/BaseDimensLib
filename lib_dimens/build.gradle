@@ -22,3 +22,6 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 }
+
+// jcenter_publish
+apply from: "jcenter_publish.gradle"
