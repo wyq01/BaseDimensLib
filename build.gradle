@@ -51,8 +51,8 @@ allprojects {
         app_version_name = '1.0.0'
 
         // 资源库版本号
-        dimens_version_code = 100
-        dimens_version_name = '1.0.0'
+        dimens_version_code = 200
+        dimens_version_name = '2.0.0'
     }
 }
 
